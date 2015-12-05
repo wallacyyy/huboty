@@ -15,9 +15,6 @@ FOURSQUARE_CLIENT_ID = xxx
 FOURSQUARE_CLIENT_SECRET = xxx
 ```
 
-To run it locally just set this variables on a .env file in the project root and load it with
-a library like [```dotenv```](https://www.npmjs.com/package/dotenv).
-
 ### Install
 
 Install the plugin:
